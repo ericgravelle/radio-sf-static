@@ -1,9 +1,26 @@
-{
-	"Shared Fantasy": "http://listen.radio-sf.com/sharedfantasy",
-	"Sandy Bottoms": "http://listen.radio-sf.com/sandybottoms",
-	"Top 40": "http://listen.radio-sf.com/top40",
-	"Reggae": "http://listen.radio-sf.com/smokeshack",
-	"Blues": "http://listen.radio-sf.com/blues",
-	"Alt Rock": "http://listen.radio-sf.com/altrock",
-	"Acid Jazz": "http://listen.radio-sf.com/rentals"
-}
+[
+	{
+		"name": "Shared Fantasy",
+		"url": "http://listen.radio-sf.com/sharedfantasy",
+	},
+	{
+		"name": "Top 40",
+		"url": "http://listen.radio-sf.com/top40",
+	},
+	{
+		"name": "Raggae",
+		"url": "http://listen.radio-sf.com/smokeshack",
+	},
+	{
+		"name": "Alt Rock",
+		"url": "http://listen.radio-sf.com/altrock",
+	},
+	{
+		"name": "Blues",
+		"url": "http://listen.radio-sf.com/blues",
+	},
+	{
+		"name": "Acid Jazz",
+		"url": "http://listen.radio-sf.com/rentals",
+	}
+]
